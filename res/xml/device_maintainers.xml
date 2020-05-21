@@ -18,50 +18,20 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.havoc.settings"
     android:title="@string/device_maintainers_title">
 
-    <!--<PreferenceCategory
+    <PreferenceCategory
         android:id="@+id/device_category_generic"
         android:title="@string/device_category_generic_title" >
 
         <Preference
-            android:id="@+id/device_generica64aonly"
+            android:id="@+id/device_generic"
             android:icon="@drawable/havoc_device"
-            android:summary="@string/device_generica64aonly_summary"
-            android:title="@string/device_generica64aonly" >
+            android:summary="@string/device_generic_summary"
+            android:title="@string/device_generic" >
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/vince31fr" />
+                android:data="https://t.me/xEugW" />
         </Preference>
-
-        <Preference
-            android:id="@+id/device_genericarmaonly"
-            android:icon="@drawable/havoc_device"
-            android:summary="@string/device_genericarmaonly_summary"
-            android:title="@string/device_genericarmaonly" >
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/vince31fr" />
-        </Preference>
-
-        <Preference
-            android:id="@+id/device_genericarm64aonly"
-            android:icon="@drawable/havoc_device"
-            android:summary="@string/device_genericarm64aonly_summary"
-            android:title="@string/device_genericarm64aonly" >
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/vince31fr" />
-        </Preference>
-
-        <Preference
-            android:id="@+id/device_genericarm64ab"
-            android:icon="@drawable/havoc_device"
-            android:summary="@string/device_genericarm64ab_summary"
-            android:title="@string/device_genericarm64ab" >
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/vince31fr" />
-        </Preference>
-    </PreferenceCategory>-->
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:id="@+id/device_category_oneplus"
@@ -605,7 +575,7 @@
             android:title="@string/device_vince">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/blacksuan19" />
+                android:data="https://t.me/KenHV" />
         </Preference>
 
         <Preference
@@ -695,7 +665,7 @@
             android:title="@string/device_lavender">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/xyzuan" />
+                android:data="https://t.me/Genkzsz11" />
         </Preference>
 
         <Preference
@@ -743,6 +713,21 @@
                 android:data="https://t.me/AdvaithBhat" />
         </Preference>
     </PreferenceCategory>-->
+
+    <PreferenceCategory
+        android:id="@+id/device_category_lg"
+        android:title="@string/device_category_lg_title">
+
+        <Preference
+            android:id="@+id/device_lucye"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_lucye_summary"
+            android:title="@string/device_lucye">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/wolfsvk" />
+        </Preference>
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:id="@+id/device_category_asus"
@@ -886,6 +871,21 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/nikhilgohil3" />
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:id="@+id/device_category_huawei"
+        android:title="@string/device_category_huawei_title">
+
+	    <Preference
+            android:id="@+id/device_angler"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_angler_summary"
+            android:title="@string/device_angler">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/roxxannee" />
         </Preference>
     </PreferenceCategory>
 </PreferenceScreen>

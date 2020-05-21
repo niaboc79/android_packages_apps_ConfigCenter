@@ -27,6 +27,7 @@
     <string name="device_category_motorola_title" translatable="false">Motorola</string>
     <string name="device_category_xiaomi_title" translatable="false">Xiaomi</string>
     <string name="device_category_lenovo_title" translatable="false">Lenovo</string>
+    <string name="device_category_lg_title" translatable="false">LG</string>
     <string name="device_category_asus_title" translatable="false">Asus</string>
     <string name="device_category_realme_title" translatable="false">Realme</string>
     <string name="device_category_leeco_title" translatable="false">LeEco</string>
@@ -34,19 +35,11 @@
     <string name="device_category_nubia_title" translatable="false">Nubia</string>
     <string name="device_category_yu_title" translatable="false">YU</string>
     <string name="device_category_zuk_title" translatable="false">ZUK</string>
+    <string name="device_category_huawei_title" translatable="false">Huawei</string>
 
     <!-- Devices & Maintainers -->
-    <string name="device_generica64aonly" translatable="false">Generic System Image</string>
-    <string name="device_generica64aonly_summary" translatable="false">a64-aonly\nVincent Vidal</string>
-
-    <string name="device_genericarmaonly" translatable="false">Generic System Image</string>
-    <string name="device_genericarmaonly_summary" translatable="false">arm-aonly\nVincent Vidal</string>
-
-    <string name="device_genericarm64aonly" translatable="false">Generic System Image</string>
-    <string name="device_genericarm64aonly_summary" translatable="false">arm64-aonly\nVincent Vidal</string>
-
-    <string name="device_genericarm64ab" translatable="false">Generic System Image</string>
-    <string name="device_genericarm64ab_summary" translatable="false">arm64-ab\nVincent Vidal</string>
+    <string name="device_generic" translatable="false">Generic System Image</string>
+    <string name="device_generic_summary" translatable="false">arm, arm64, a64\nEvgeny Brin (EugW)</string>
 
     <string name="device_bacon" translatable="false">OnePlus One</string>
     <string name="device_bacon_summary" translatable="false">bacon\nClint Thebus (ClintT)</string>
@@ -205,7 +198,7 @@
     <string name="device_rosy_summary" translatable="false">rosy\nSukrut Bhagwat (Sukrut4778)</string>
 
     <string name="device_vince" translatable="false">Xiaomi Redmi 5 Plus</string>
-    <string name="device_vince_summary" translatable="false">vince\nAbubakar Yagoub (Blacksuan19)</string>
+    <string name="device_vince_summary" translatable="false">vince\nKen Harris (KenHV)</string>
 
     <string name="device_sakura" translatable="false">Xiaomi Redmi 6 Pro</string>
     <string name="device_sakura_summary" translatable="false">sakura\nTushar Mahajan (mahajant99)</string>
@@ -229,7 +222,7 @@
     <string name="device_tulip_summary" translatable="false">tulip\nAkhil MS (Akhilmsachu)</string>
 
     <string name="device_lavender" translatable="false">Xiaomi Redmi Note 7</string>
-    <string name="device_lavender_summary" translatable="false">lavender\nJody Yuantoro (xyzuan)</string>
+    <string name="device_lavender_summary" translatable="false">lavender\nMuhammad Fikri (Genkzsz11)</string>
 
     <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro</string>
     <string name="device_violet_summary" translatable="false">violet\nAthul Dinesan (athul_05)</string>
@@ -242,6 +235,9 @@
 
     <string name="device_kuntao" translatable="false">Lenovo P2</string>
     <string name="device_kuntao_summary" translatable="false">kuntao\nAdvaith Bhat (advaithbhat)</string>
+
+    <string name="device_lucye" translatable="false">LG G6</string>
+    <string name="device_lucye_summary" translatable="false">lucye\nMichael Bardoň (wolfsvk)</string>
 
     <string name="device_I001D" translatable="false">Asus ROG Phone II</string>
     <string name="device_I001D_summary" translatable="false">I001D\nRăileanu Cosmin (Comico)</string>
@@ -275,5 +271,8 @@
 
     <string name="device_z2_plus">Zuk Z2 Plus</string>
     <string name="device_z2_plus_summary">z2_plus\nNikhil Gohil (nikhil.gohil3)</string>
+
+    <string name="device_angler" translatable="false">Nexus 6P</string>
+    <string name="device_angler_summary" translatable="false">angler\nHardik Kumar (hk1271)</string>
 
 </resources>
